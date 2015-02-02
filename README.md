@@ -1,7 +1,7 @@
-===== Portable S/Key Tool with debugging =====
+# Portable S/Key Tool with debugging
 Author: Cody Moore
 
-== Description ==
+## Description
 
 Within this directory is a folder called 'skey' that contains
 a set of programs that employ the S/Key One-Time-Function (OTF)
@@ -49,7 +49,7 @@ code snippet to properly use the debugging functionality:
 - The bash script config-skey.sh must be ran before anything else.
 The installion/build procedure is outlined below
 
-== Installation ==
+## Installation
 
 'cd' into the src directory and run the following command:
 
